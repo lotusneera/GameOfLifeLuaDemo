@@ -4,5 +4,7 @@
 
 The implementation for Conway's Game of Life
 
+[![Run on Repl.it](https://repl.it/badge/github/lotusneera/GameOfLifeLuaDemo)](https://repl.it/github/lotusneera/GameOfLifeLuaDemo)
+
 ## Group:
 1. [Neeraj Shukla](mailto:nirajshukla10@gmail.com) (nshukla2)<br>
